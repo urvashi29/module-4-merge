@@ -1,0 +1,61 @@
+create database sampledatabase;
+
+use sampledatabase;
+
+show tables;
+
+-- create table schema
+create table products (
+PId int, 
+PName varchar(50),
+PPrice int
+);
+
+-- insert data into table
+insert into products values(1, "Iphone 15 Pro", 20000);
+insert into products values(2, "Iphone 16 Pro", 50000);
+
+-- retrieve the data/ all the rows of a table
+select * from products;
+
+-- specific data columns
+select PId, PPrice from products;
+
+-- insert multiple data togather
+insert into products values(3, "Iphone 15", 20000), (4, "Iphone 16 Pro", 20000), (5, "Iphone 15", 20000)
+
+-- add specific column 
+insert into products(PId, PName) values(6, "Iphone");
+
+-- update
+update products
+set PPrice = 30000
+where PId = 5
+
+-- and / or
+update products
+set PPrice = 30000
+where PId = 3 and PName = "Iphone 15" ;
+
+-- select products based on condition
+select PId, PPrice from products where PId = 3;
+
+-- delete
+delete from products 
+where PName = "Iphone"
+
+show tables;
+
+-- truncate
+truncate table products;
+
+select * from products;
+
+-- drop
+drop table products;
+
+show tables;
+
+
+-- Task 
+-- create customer table, employee table inside office database
