@@ -1,0 +1,154 @@
+use sample
+
+select * from products
+
+-- aggregate functions
+-- return the count of number of products
+select count(*) from products;
+
+-- sum of all the products price
+select sum(price) from products;
+
+-- return the sum of all the prducts price where category_id = 3
+select sum(price) from products where category_id = 3;
+
+-- return the average
+select avg(price) from products;
+
+-- return the maximum price value
+select max(price) from products;
+
+-- return the minimum price value
+select min(price) from products;
+
+-- group by
+select category_id, sum(price) from products group by category_id
+
+select * from employees;
+
+select count(employee_id), hire_date from employees group by hire_date
+
+select count(customer_id), address from customers group by address
+
+select count(*), customer_id from orders group by customer_id
+
+-- pattern
+select * from customers
+
+-- return the data in pattern e.g. start should be J, after that anything could be there
+select * from customers where first_name like "Ja%";
+
+-- return the data in pattern e.g. contains should be doe, after that anything could be there
+select * from customers where email like "%doe%";
+
+-- return the data where "_" means any character e.g. "ean"
+select * from customers where first_name like "_an%";
+
+-- return the data where "_" means any character e.g. "Jen"
+select * from customers where first_name like "J_n%";
+
+-- null
+insert into customers values(50, "alina", null, "admin@gmail.com", 898909099)
+
+-- try this 
+select * from customers where last_name = null;
+
+-- we can't ge the value as null, we need to use "is"
+select * from customers where last_name is null;
+
+select * from customers where last_name is not null;
+
+-- selecting multiple record with condition
+select * from customers where customer_id in (1, 2, 5);
+
+select * from customers where customer_id between 11 and 20;
+
+-- foreign key
+use sampledatabase
+
+show tables;
+
+create table Customers (
+customer_id int primary key, 
+Name varchar(50),
+City varchar(50),
+email varchar(50) unique
+)
+
+select * from Customers
+
+insert into Customers values(1, "alex", "mumbai", "alex@gmail.com"), (2, "alina", "mumbai", "alina@gmail.com")
+
+-- creating a foriegn key
+create table Orders (
+order_id int primary key,
+order_number int,
+customer_id int,
+foreign key (customer_id) references Customers(customer_id)
+)
+
+select * from orders;
+
+insert into orders values(12, 78780, 1), (24, 78780, 2)
+
+select * from orders where customer_id = 1;
+
+-- try inserting a record in order table where customer_id doesn;t exist in customer table
+insert into orders values(15, 75780, 5);
+
+-- we can;t delete a record which is present in another table, it will lead to data integrity
+delete from customers where customer_id = 1;
+
+-- to resolve this, delete from all the tables first, where cutomer_id is foreign key, then from customer table
+delete from orders where customer_id = 1;
+delete from customers where customer_id = 1;
+
+drop table orders;
+drop table customers;
+
+-- creating customer & order again
+create table Customers (
+customer_id int primary key, 
+Name varchar(50),
+City varchar(50),
+email varchar(50) unique
+)
+
+select * from Customers
+
+insert into Customers values(1, "alex", "mumbai", "alex@gmail.com"), (2, "alina", "mumbai", "alina@gmail.com")
+
+create table Orders (
+order_id int primary key,
+order_number int,
+customer_id int,
+foreign key (customer_id) references Customers(customer_id) on delete cascade
+)
+
+select * from orders;
+
+insert into orders values(12, 78780, 1), (24, 78780, 2)
+
+-- it will delete customer and order
+delete from customers where customer_id = 1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
