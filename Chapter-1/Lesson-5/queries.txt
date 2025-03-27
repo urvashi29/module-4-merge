@@ -1,0 +1,68 @@
+use sample;
+
+select * from customers;
+select * from orders;
+select * from employees;
+
+-- inner join
+select * from customers cus inner join orders ords
+on cus.customer_id = ords.customer_id 
+-- where first_name is not null 
+-- group by first_name
+
+-- creating alias (optional)
+select ords.order_id, cus.first_name from customers cus  inner join orders ords 
+on cus.customer_id = ords.customer_id
+
+-- inner join on 3 tables
+select ords.employee_id from customers cus inner join orders ords on cus.customer_id = ords.customer_id 
+inner join employees emp on emp.employee_id = ords.employee_id
+
+-- left join
+select * from customers cus left join orders ords
+on cus.customer_id = ords.customer_id
+
+-- right join
+select * from customers cus right join orders ords
+on cus.customer_id = ords.customer_id
+
+-- full join: left join union right join
+select * from customers cus left join orders ords
+on cus.customer_id = ords.customer_id
+union
+select * from customers cus right join orders ords
+on cus.customer_id = ords.customer_id
+
+-- union: if you include it will include duplicates also
+select first_name from customers 
+union all
+select order_id from orders;
+
+-- select first_name from customers 
+-- intersect 
+-- select order_id from orders;
+
+
+use sampledatabase;
+show tables;
+select * from users;
+select * from customers;
+insert into customers values (3, "alex", "pune", "alex@gmail.com")
+
+-- cross join : 2 * 2
+select count(*) from customers cross join users
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
