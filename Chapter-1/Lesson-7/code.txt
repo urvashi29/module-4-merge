@@ -1,0 +1,39 @@
+create database transaction
+
+use transaction
+
+create table employee (
+empId int primary key,
+name varchar(40),
+age int,
+city varchar(40),
+income int
+)
+
+start transaction;
+
+insert into employee values(1, "alina", 25, "pune", 989899);
+insert into employee values(2, "alex", 24, "pune", 989899);
+
+select * from employee
+
+-- complete
+commit;
+
+-- rollback
+start transaction
+delete from employee where empId = 1
+
+select * from employee
+
+rollback;
+
+-- savepoint
+
+
+
+
+
+
+
+
