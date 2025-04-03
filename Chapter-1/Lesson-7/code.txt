@@ -29,6 +29,33 @@ select * from employee
 rollback;
 
 -- savepoint
+use transaction;
+
+show tables
+
+select * from employee
+
+start transaction;
+
+insert into employee values(5, "alaya", 30, "banglore", 787878)
+savepoint mysavepoint_1
+
+select * from employee
+
+insert into employee values(6, "bob", 30, "banglore", 78787878)
+
+rollback to savepoint mysavepoint_1
+
+commit;
+
+
+
+
+
+
+
+
+
 
 
 
