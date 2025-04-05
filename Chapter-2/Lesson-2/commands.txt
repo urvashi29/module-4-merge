@@ -1,0 +1,35 @@
+show databases;
+use users
+db.createCollection("user")
+show collections
+
+create
+db.user.insert({"name" : "alina", "age" : "24"}) //depreceated
+db.user.insertOne({"name" : "alaya", "age" : "20"})
+db.user.drop()
+db.users.insertMany([{"name": "harry", "age":"25", "hobbies":["cooking","dance"], "id":"10"}, {"name": "alaya", "age":"20", "hobbies":["cooking", "dance"],"id":"6"}])
+db.user.insertOne({"name" : "alaya", "age" : "20", "_id": "6778"})
+
+Read
+db.users.find() | db.users.find({}) 
+db.users.findOne()
+db.movies.find({}, {"title" : 1, "language" : 1})
+db.movies.find({}, {"title" : 1, "language" : 1, "_id" : 0})
+db.movies.find({language: "Hindi"}, {"title": 1, "language": 1, "director" : 1})
+db.movies.find({language: {$ne: "Hindi"}}, {"title": 1, "language": 1, "director" : 1})
+db.movies.find({ language: { $in: ["English", "Hindi"] } }, { "title": 1, "language": 1, "director": 1 } )
+db.movies.find({ release_year: { $gte: 2014 } }, { "title": 1, "language": 1, "director": 1, "release_year" : 1 } )
+db.movies.find({ release_year: { $lt: 2014 } }, { "title": 1, "language": 1, "director": 1, "release_year" : 1 } )
+db.movies.find({}).count()
+db.movies.find({ release_year: { $lt: 2014 } }, { "title": 1, "language": 1, "director": 1, "release_year" : 1 } ).count()
+
+update
+db.movies.updateOne({"id": 2}, {$set: {"language": "Hindi"}})
+db.movies.updateMany({"language": "Hindi"}, {$set: {"language": "English", genre: ""}})
+
+delete
+db.movies.deleteOne({"id": 2})
+db.movies.deleteMany({"language": "English"})
+
+
+
