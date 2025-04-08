@@ -1,0 +1,28 @@
+//Pagination
+db.movies.find().limit(2)
+db.movies.find({}, {director: 1}).limit(2)
+db.movies.find({}, {director: 1}).limit(5)
+db.movies.find({}, {director: 1}).skip(5).limit(10)
+
+//Index
+db.movies.getIndexes()
+db.movies.find({title: "Movie 9"}).explain
+db.movies.find({title: "Movie 9"}).explain("executionStats")
+db.movies.createIndex({title: 1})
+db.movies.find({title: "Movie 9"}).explain("executionStats")
+db.movies.dropIndex("title_1")
+
+//Aggregate
+db.movies.aggregate([{$match: {director: "Guillermo del Toro"}}])
+db.movies.aggregate([{$group: {_id: "$language", lead_actor: {$push: "$lead_actor"}}}])
+db.movies.aggregate([{$group: {_id: "$lead_actor", totalmovies: {$sum: 1}}}])
+db.movies.aggregate([{$match: {language: "Hindi"}}, {$count: "total"}])
+db.movies.aggregate([{$match: {language: "Hindi"}}, {$limit: 3}])
+db.movies.aggregate([{$group: {_id: "$lead_actor", totalmovies: {$sum: 1}}}, {$sort: {"_id": 1}}])
+db.movies.aggregate([{$group: {_id: "$lead_actor", totalmovies: {$sum: 1}}}, {$sort: {"_id": 1}}])
+db.sales.aggregate([{$group: {_id: {method: "$purchaseMethod, location: {$push: "$storelocation", totalSales: {$count: 1}}}}}])
+
+
+
+
+
