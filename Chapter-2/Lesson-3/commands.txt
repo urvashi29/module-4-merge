@@ -21,7 +21,8 @@ db.movies.aggregate([{$match: {language: "Hindi"}}, {$limit: 3}])
 db.movies.aggregate([{$group: {_id: "$lead_actor", totalmovies: {$sum: 1}}}, {$sort: {"_id": 1}}])
 db.movies.aggregate([{$group: {_id: "$lead_actor", totalmovies: {$sum: 1}}}, {$sort: {"_id": 1}}])
 db.sales.aggregate([{$group: {_id: {method: "$purchaseMethod, location: {$push: "$storelocation", totalSales: {$count: 1}}}}}])
-
+db.movies.aggregate([{$match: {_id: ObjectId('6798ecedb47dc62e0a230938')}}, {$unwind: "$genres"}])
+ db.movies.aggregate([{$match: {release_year: 1986}}, {$project: {title: 1, director: 1}}])
 
 
 
