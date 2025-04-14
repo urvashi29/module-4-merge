@@ -1,0 +1,1095 @@
+[
+    {
+        "id": 1,
+        "product_id": "PROD-1001",
+        "product_name": "Pm Item",
+        "price": 875.5,
+        "category": [
+            "Health"
+        ],
+        "discount": 25.79
+    },
+    {
+        "id": 2,
+        "product_id": "PROD-1002",
+        "product_name": "Represent Tool",
+        "price": 629.35,
+        "category": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "discount": 14.71
+    },
+    {
+        "id": 3,
+        "product_id": "PROD-1003",
+        "product_name": "Now Product",
+        "price": 792.93,
+        "category": [
+            "Health"
+        ],
+        "discount": 9.15
+    },
+    {
+        "id": 4,
+        "product_id": "PROD-1004",
+        "product_name": "Food Device",
+        "price": 110.69,
+        "category": [
+            "Sports"
+        ],
+        "discount": 30.7
+    },
+    {
+        "id": 5,
+        "product_id": "PROD-1005",
+        "product_name": "Hospital Product",
+        "price": 506.57,
+        "category": [
+            "Health",
+            "Books"
+        ],
+        "discount": 0.32
+    },
+    {
+        "id": 6,
+        "product_id": "PROD-1006",
+        "product_name": "Should Tool",
+        "price": 524.86,
+        "category": [
+            "Fashion",
+            "Electronics"
+        ],
+        "discount": 7.66
+    },
+    {
+        "id": 7,
+        "product_id": "PROD-1007",
+        "product_name": "Travel Device",
+        "price": 796.57,
+        "category": [
+            "Home & Kitchen",
+            "Health",
+            "Sports"
+        ],
+        "discount": 42.05
+    },
+    {
+        "id": 8,
+        "product_id": "PROD-1008",
+        "product_name": "Skill Product",
+        "price": 202.76,
+        "category": [
+            "Beauty",
+            "Sports",
+            "Health"
+        ],
+        "discount": 20.67
+    },
+    {
+        "id": 9,
+        "product_id": "PROD-1009",
+        "product_name": "Head Tool",
+        "price": 755.32,
+        "category": [
+            "Toys"
+        ],
+        "discount": 36.02
+    },
+    {
+        "id": 10,
+        "product_id": "PROD-1010",
+        "product_name": "Sort Tool",
+        "price": 170.02,
+        "category": [
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "discount": 4.67
+    },
+    {
+        "id": 11,
+        "product_id": "PROD-1011",
+        "product_name": "Argue Item",
+        "price": 294.4,
+        "category": [
+            "Electronics"
+        ],
+        "discount": 19.37
+    },
+    {
+        "id": 12,
+        "product_id": "PROD-1012",
+        "product_name": "City Tool",
+        "price": 946.38,
+        "category": [
+            "Toys"
+        ],
+        "discount": 37.5
+    },
+    {
+        "id": 13,
+        "product_id": "PROD-1013",
+        "product_name": "Program Device",
+        "price": 822.33,
+        "category": [
+            "Beauty",
+            "Home & Kitchen"
+        ],
+        "discount": 19.49
+    },
+    {
+        "id": 14,
+        "product_id": "PROD-1014",
+        "product_name": "Consider Tool",
+        "price": 600.95,
+        "category": [
+            "Sports",
+            "Beauty"
+        ],
+        "discount": 1.38
+    },
+    {
+        "id": 15,
+        "product_id": "PROD-1015",
+        "product_name": "Result Item",
+        "price": 722.34,
+        "category": [
+            "Toys"
+        ],
+        "discount": 33.31
+    },
+    {
+        "id": 16,
+        "product_id": "PROD-1016",
+        "product_name": "Church Device",
+        "price": 616.29,
+        "category": [
+            "Sports"
+        ],
+        "discount": 6.22
+    },
+    {
+        "id": 17,
+        "product_id": "PROD-1017",
+        "product_name": "Situation Product",
+        "price": 208.69,
+        "category": [
+            "Beauty",
+            "Books"
+        ],
+        "discount": 11.38
+    },
+    {
+        "id": 18,
+        "product_id": "PROD-1018",
+        "product_name": "Feel Product",
+        "price": 434.34,
+        "category": [
+            "Beauty",
+            "Books",
+            "Health"
+        ],
+        "discount": 43.18
+    },
+    {
+        "id": 19,
+        "product_id": "PROD-1019",
+        "product_name": "Wish Product",
+        "price": 353.83,
+        "category": [
+            "Home & Kitchen",
+            "Beauty"
+        ],
+        "discount": 35.51
+    },
+    {
+        "id": 20,
+        "product_id": "PROD-1020",
+        "product_name": "Down Tool",
+        "price": 171.08,
+        "category": [
+            "Home & Kitchen",
+            "Toys",
+            "Beauty"
+        ],
+        "discount": 9.38
+    },
+    {
+        "id": 21,
+        "product_id": "PROD-1021",
+        "product_name": "Total Device",
+        "price": 729.61,
+        "category": [
+            "Health",
+            "Electronics",
+            "Fashion"
+        ],
+        "discount": 14.53
+    },
+    {
+        "id": 22,
+        "product_id": "PROD-1022",
+        "product_name": "In Product",
+        "price": 505.61,
+        "category": [
+            "Books",
+            "Sports"
+        ],
+        "discount": 3.65
+    },
+    {
+        "id": 23,
+        "product_id": "PROD-1023",
+        "product_name": "Democratic Tool",
+        "price": 264.86,
+        "category": [
+            "Toys",
+            "Books",
+            "Fashion"
+        ],
+        "discount": 1.05
+    },
+    {
+        "id": 24,
+        "product_id": "PROD-1024",
+        "product_name": "Finish Item",
+        "price": 949.87,
+        "category": [
+            "Home & Kitchen",
+            "Beauty",
+            "Sports"
+        ],
+        "discount": 19.92
+    },
+    {
+        "id": 25,
+        "product_id": "PROD-1025",
+        "product_name": "Human Device",
+        "price": 753.01,
+        "category": [
+            "Beauty",
+            "Health",
+            "Books"
+        ],
+        "discount": 44.94
+    },
+    {
+        "id": 26,
+        "product_id": "PROD-1026",
+        "product_name": "Old Gadget",
+        "price": 354.8,
+        "category": [
+            "Health"
+        ],
+        "discount": 14.52
+    },
+    {
+        "id": 27,
+        "product_id": "PROD-1027",
+        "product_name": "Wear Gadget",
+        "price": 356.4,
+        "category": [
+            "Sports"
+        ],
+        "discount": 33.7
+    },
+    {
+        "id": 28,
+        "product_id": "PROD-1028",
+        "product_name": "Full Device",
+        "price": 290.89,
+        "category": [
+            "Health",
+            "Toys"
+        ],
+        "discount": 31.73
+    },
+    {
+        "id": 29,
+        "product_id": "PROD-1029",
+        "product_name": "Billion Gadget",
+        "price": 54.85,
+        "category": [
+            "Toys",
+            "Home & Kitchen"
+        ],
+        "discount": 7.94
+    },
+    {
+        "id": 30,
+        "product_id": "PROD-1030",
+        "product_name": "Pick Tool",
+        "price": 779.57,
+        "category": [
+            "Beauty",
+            "Books",
+            "Home & Kitchen"
+        ],
+        "discount": 3.7
+    },
+    {
+        "id": 31,
+        "product_id": "PROD-1031",
+        "product_name": "Consumer Item",
+        "price": 768.75,
+        "category": [
+            "Health",
+            "Beauty",
+            "Toys"
+        ],
+        "discount": 6.69
+    },
+    {
+        "id": 32,
+        "product_id": "PROD-1032",
+        "product_name": "Him Tool",
+        "price": 199.55,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 27.21
+    },
+    {
+        "id": 33,
+        "product_id": "PROD-1033",
+        "product_name": "Goal Device",
+        "price": 487.99,
+        "category": [
+            "Sports",
+            "Fashion"
+        ],
+        "discount": 11.63
+    },
+    {
+        "id": 34,
+        "product_id": "PROD-1034",
+        "product_name": "None Gadget",
+        "price": 999.49,
+        "category": [
+            "Electronics"
+        ],
+        "discount": 40.25
+    },
+    {
+        "id": 35,
+        "product_id": "PROD-1035",
+        "product_name": "Measure Product",
+        "price": 787.99,
+        "category": [
+            "Health",
+            "Toys"
+        ],
+        "discount": 48.31
+    },
+    {
+        "id": 36,
+        "product_id": "PROD-1036",
+        "product_name": "Get Device",
+        "price": 313.11,
+        "category": [
+            "Home & Kitchen"
+        ],
+        "discount": 28.18
+    },
+    {
+        "id": 37,
+        "product_id": "PROD-1037",
+        "product_name": "Ready Tool",
+        "price": 942.73,
+        "category": [
+            "Home & Kitchen",
+            "Books"
+        ],
+        "discount": 20.5
+    },
+    {
+        "id": 38,
+        "product_id": "PROD-1038",
+        "product_name": "Building Item",
+        "price": 185.85,
+        "category": [
+            "Sports",
+            "Beauty",
+            "Books"
+        ],
+        "discount": 19.66
+    },
+    {
+        "id": 39,
+        "product_id": "PROD-1039",
+        "product_name": "Good Tool",
+        "price": 712.98,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 9.92
+    },
+    {
+        "id": 40,
+        "product_id": "PROD-1040",
+        "product_name": "First Gadget",
+        "price": 453.69,
+        "category": [
+            "Toys",
+            "Beauty"
+        ],
+        "discount": 4.02
+    },
+    {
+        "id": 41,
+        "product_id": "PROD-1041",
+        "product_name": "Including Item",
+        "price": 858.64,
+        "category": [
+            "Beauty",
+            "Sports",
+            "Fashion"
+        ],
+        "discount": 23.46
+    },
+    {
+        "id": 42,
+        "product_id": "PROD-1042",
+        "product_name": "We Item",
+        "price": 460.75,
+        "category": [
+            "Fashion",
+            "Home & Kitchen"
+        ],
+        "discount": 36.26
+    },
+    {
+        "id": 43,
+        "product_id": "PROD-1043",
+        "product_name": "Fear Gadget",
+        "price": 383.19,
+        "category": [
+            "Books",
+            "Home & Kitchen"
+        ],
+        "discount": 44.25
+    },
+    {
+        "id": 44,
+        "product_id": "PROD-1044",
+        "product_name": "Quality Item",
+        "price": 404.77,
+        "category": [
+            "Electronics"
+        ],
+        "discount": 24.9
+    },
+    {
+        "id": 45,
+        "product_id": "PROD-1045",
+        "product_name": "Program Device",
+        "price": 105.38,
+        "category": [
+            "Toys"
+        ],
+        "discount": 46.35
+    },
+    {
+        "id": 46,
+        "product_id": "PROD-1046",
+        "product_name": "Tv Gadget",
+        "price": 904.33,
+        "category": [
+            "Books"
+        ],
+        "discount": 30.09
+    },
+    {
+        "id": 47,
+        "product_id": "PROD-1047",
+        "product_name": "However Gadget",
+        "price": 579.26,
+        "category": [
+            "Electronics",
+            "Toys"
+        ],
+        "discount": 14.07
+    },
+    {
+        "id": 48,
+        "product_id": "PROD-1048",
+        "product_name": "Management Tool",
+        "price": 24.56,
+        "category": [
+            "Health",
+            "Electronics"
+        ],
+        "discount": 7.0
+    },
+    {
+        "id": 49,
+        "product_id": "PROD-1049",
+        "product_name": "Clear Product",
+        "price": 699.6,
+        "category": [
+            "Health",
+            "Toys"
+        ],
+        "discount": 47.27
+    },
+    {
+        "id": 50,
+        "product_id": "PROD-1050",
+        "product_name": "Four Item",
+        "price": 499.49,
+        "category": [
+            "Fashion",
+            "Health",
+            "Home & Kitchen"
+        ],
+        "discount": 30.11
+    },
+    {
+        "id": 51,
+        "product_id": "PROD-1051",
+        "product_name": "May Product",
+        "price": 535.49,
+        "category": [
+            "Electronics",
+            "Health"
+        ],
+        "discount": 14.09
+    },
+    {
+        "id": 52,
+        "product_id": "PROD-1052",
+        "product_name": "Open Device",
+        "price": 132.9,
+        "category": [
+            "Toys",
+            "Sports",
+            "Electronics"
+        ],
+        "discount": 37.16
+    },
+    {
+        "id": 53,
+        "product_id": "PROD-1053",
+        "product_name": "Law Gadget",
+        "price": 783.31,
+        "category": [
+            "Home & Kitchen",
+            "Toys",
+            "Electronics"
+        ],
+        "discount": 49.82
+    },
+    {
+        "id": 54,
+        "product_id": "PROD-1054",
+        "product_name": "Media Tool",
+        "price": 670.78,
+        "category": [
+            "Health"
+        ],
+        "discount": 14.62
+    },
+    {
+        "id": 55,
+        "product_id": "PROD-1055",
+        "product_name": "Respond Gadget",
+        "price": 721.24,
+        "category": [
+            "Health",
+            "Electronics",
+            "Books"
+        ],
+        "discount": 46.3
+    },
+    {
+        "id": 56,
+        "product_id": "PROD-1056",
+        "product_name": "Force Gadget",
+        "price": 613.6,
+        "category": [
+            "Fashion",
+            "Toys"
+        ],
+        "discount": 28.09
+    },
+    {
+        "id": 57,
+        "product_id": "PROD-1057",
+        "product_name": "Arm Product",
+        "price": 375.48,
+        "category": [
+            "Beauty"
+        ],
+        "discount": 12.06
+    },
+    {
+        "id": 58,
+        "product_id": "PROD-1058",
+        "product_name": "Hard Device",
+        "price": 305.65,
+        "category": [
+            "Home & Kitchen"
+        ],
+        "discount": 43.1
+    },
+    {
+        "id": 59,
+        "product_id": "PROD-1059",
+        "product_name": "Popular Tool",
+        "price": 901.52,
+        "category": [
+            "Sports"
+        ],
+        "discount": 4.59
+    },
+    {
+        "id": 60,
+        "product_id": "PROD-1060",
+        "product_name": "Side Tool",
+        "price": 213.4,
+        "category": [
+            "Beauty",
+            "Health"
+        ],
+        "discount": 49.16
+    },
+    {
+        "id": 61,
+        "product_id": "PROD-1061",
+        "product_name": "Hair Device",
+        "price": 18.16,
+        "category": [
+            "Books"
+        ],
+        "discount": 17.52
+    },
+    {
+        "id": 62,
+        "product_id": "PROD-1062",
+        "product_name": "Military Product",
+        "price": 862.39,
+        "category": [
+            "Fashion",
+            "Sports"
+        ],
+        "discount": 47.71
+    },
+    {
+        "id": 63,
+        "product_id": "PROD-1063",
+        "product_name": "Recently Device",
+        "price": 759.01,
+        "category": [
+            "Books",
+            "Toys"
+        ],
+        "discount": 25.84
+    },
+    {
+        "id": 64,
+        "product_id": "PROD-1064",
+        "product_name": "Six Product",
+        "price": 50.71,
+        "category": [
+            "Fashion",
+            "Beauty",
+            "Electronics"
+        ],
+        "discount": 19.14
+    },
+    {
+        "id": 65,
+        "product_id": "PROD-1065",
+        "product_name": "Remember Tool",
+        "price": 419.56,
+        "category": [
+            "Toys",
+            "Home & Kitchen",
+            "Sports"
+        ],
+        "discount": 4.93
+    },
+    {
+        "id": 66,
+        "product_id": "PROD-1066",
+        "product_name": "Scene Item",
+        "price": 470.22,
+        "category": [
+            "Fashion",
+            "Home & Kitchen",
+            "Sports"
+        ],
+        "discount": 16.43
+    },
+    {
+        "id": 67,
+        "product_id": "PROD-1067",
+        "product_name": "Paper Product",
+        "price": 186.36,
+        "category": [
+            "Beauty"
+        ],
+        "discount": 40.85
+    },
+    {
+        "id": 68,
+        "product_id": "PROD-1068",
+        "product_name": "Sure Tool",
+        "price": 555.43,
+        "category": [
+            "Health",
+            "Books",
+            "Electronics"
+        ],
+        "discount": 2.66
+    },
+    {
+        "id": 69,
+        "product_id": "PROD-1069",
+        "product_name": "Enter Device",
+        "price": 117.42,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 7.43
+    },
+    {
+        "id": 70,
+        "product_id": "PROD-1070",
+        "product_name": "Give Device",
+        "price": 250.06,
+        "category": [
+            "Beauty",
+            "Home & Kitchen",
+            "Sports"
+        ],
+        "discount": 38.51
+    },
+    {
+        "id": 71,
+        "product_id": "PROD-1071",
+        "product_name": "Current Device",
+        "price": 107.62,
+        "category": [
+            "Books",
+            "Home & Kitchen",
+            "Beauty"
+        ],
+        "discount": 20.88
+    },
+    {
+        "id": 72,
+        "product_id": "PROD-1072",
+        "product_name": "Save Product",
+        "price": 605.65,
+        "category": [
+            "Toys"
+        ],
+        "discount": 2.5
+    },
+    {
+        "id": 73,
+        "product_id": "PROD-1073",
+        "product_name": "Both Tool",
+        "price": 335.32,
+        "category": [
+            "Health",
+            "Home & Kitchen",
+            "Fashion"
+        ],
+        "discount": 25.09
+    },
+    {
+        "id": 74,
+        "product_id": "PROD-1074",
+        "product_name": "Must Item",
+        "price": 758.87,
+        "category": [
+            "Beauty"
+        ],
+        "discount": 33.39
+    },
+    {
+        "id": 75,
+        "product_id": "PROD-1075",
+        "product_name": "Water Product",
+        "price": 275.14,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 13.41
+    },
+    {
+        "id": 76,
+        "product_id": "PROD-1076",
+        "product_name": "Professional Product",
+        "price": 544.5,
+        "category": [
+            "Electronics"
+        ],
+        "discount": 31.02
+    },
+    {
+        "id": 77,
+        "product_id": "PROD-1077",
+        "product_name": "Happy Gadget",
+        "price": 337.09,
+        "category": [
+            "Books",
+            "Home & Kitchen"
+        ],
+        "discount": 22.7
+    },
+    {
+        "id": 78,
+        "product_id": "PROD-1078",
+        "product_name": "Close Device",
+        "price": 753.82,
+        "category": [
+            "Fashion",
+            "Toys",
+            "Books"
+        ],
+        "discount": 4.61
+    },
+    {
+        "id": 79,
+        "product_id": "PROD-1079",
+        "product_name": "Seven Item",
+        "price": 545.74,
+        "category": [
+            "Fashion",
+            "Electronics",
+            "Health"
+        ],
+        "discount": 26.49
+    },
+    {
+        "id": 80,
+        "product_id": "PROD-1080",
+        "product_name": "Hospital Device",
+        "price": 580.82,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 5.11
+    },
+    {
+        "id": 81,
+        "product_id": "PROD-1081",
+        "product_name": "Political Item",
+        "price": 247.73,
+        "category": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "discount": 13.73
+    },
+    {
+        "id": 82,
+        "product_id": "PROD-1082",
+        "product_name": "Blue Gadget",
+        "price": 948.29,
+        "category": [
+            "Home & Kitchen",
+            "Books"
+        ],
+        "discount": 38.82
+    },
+    {
+        "id": 83,
+        "product_id": "PROD-1083",
+        "product_name": "Season Tool",
+        "price": 157.74,
+        "category": [
+            "Beauty",
+            "Health"
+        ],
+        "discount": 20.22
+    },
+    {
+        "id": 84,
+        "product_id": "PROD-1084",
+        "product_name": "Want Product",
+        "price": 322.67,
+        "category": [
+            "Health",
+            "Beauty"
+        ],
+        "discount": 43.77
+    },
+    {
+        "id": 85,
+        "product_id": "PROD-1085",
+        "product_name": "See Product",
+        "price": 485.23,
+        "category": [
+            "Fashion",
+            "Beauty"
+        ],
+        "discount": 16.38
+    },
+    {
+        "id": 86,
+        "product_id": "PROD-1086",
+        "product_name": "Lawyer Device",
+        "price": 476.9,
+        "category": [
+            "Fashion",
+            "Electronics",
+            "Toys"
+        ],
+        "discount": 9.26
+    },
+    {
+        "id": 87,
+        "product_id": "PROD-1087",
+        "product_name": "Beyond Tool",
+        "price": 812.72,
+        "category": [
+            "Health"
+        ],
+        "discount": 13.57
+    },
+    {
+        "id": 88,
+        "product_id": "PROD-1088",
+        "product_name": "Medical Device",
+        "price": 496.68,
+        "category": [
+            "Books",
+            "Health",
+            "Toys"
+        ],
+        "discount": 10.36
+    },
+    {
+        "id": 89,
+        "product_id": "PROD-1089",
+        "product_name": "My Item",
+        "price": 60.34,
+        "category": [
+            "Toys",
+            "Beauty",
+            "Fashion"
+        ],
+        "discount": 45.17
+    },
+    {
+        "id": 90,
+        "product_id": "PROD-1090",
+        "product_name": "Image Product",
+        "price": 395.4,
+        "category": [
+            "Beauty"
+        ],
+        "discount": 1.05
+    },
+    {
+        "id": 91,
+        "product_id": "PROD-1091",
+        "product_name": "Exist Device",
+        "price": 678.4,
+        "category": [
+            "Books",
+            "Beauty"
+        ],
+        "discount": 45.01
+    },
+    {
+        "id": 92,
+        "product_id": "PROD-1092",
+        "product_name": "People Product",
+        "price": 779.03,
+        "category": [
+            "Fashion",
+            "Toys"
+        ],
+        "discount": 12.02
+    },
+    {
+        "id": 93,
+        "product_id": "PROD-1093",
+        "product_name": "Always Item",
+        "price": 801.09,
+        "category": [
+            "Sports",
+            "Health"
+        ],
+        "discount": 23.25
+    },
+    {
+        "id": 94,
+        "product_id": "PROD-1094",
+        "product_name": "Leader Device",
+        "price": 432.27,
+        "category": [
+            "Toys",
+            "Beauty"
+        ],
+        "discount": 11.47
+    },
+    {
+        "id": 95,
+        "product_id": "PROD-1095",
+        "product_name": "Up Device",
+        "price": 793.12,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 19.74
+    },
+    {
+        "id": 96,
+        "product_id": "PROD-1096",
+        "product_name": "Speech Device",
+        "price": 274.37,
+        "category": [
+            "Books",
+            "Home & Kitchen"
+        ],
+        "discount": 19.12
+    },
+    {
+        "id": 97,
+        "product_id": "PROD-1097",
+        "product_name": "Two Tool",
+        "price": 538.62,
+        "category": [
+            "Home & Kitchen"
+        ],
+        "discount": 24.1
+    },
+    {
+        "id": 98,
+        "product_id": "PROD-1098",
+        "product_name": "Agent Gadget",
+        "price": 204.16,
+        "category": [
+            "Books",
+            "Toys"
+        ],
+        "discount": 44.25
+    },
+    {
+        "id": 99,
+        "product_id": "PROD-1099",
+        "product_name": "Year Gadget",
+        "price": 298.28,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 37.46
+    },
+    {
+        "id": 100,
+        "product_id": "PROD-1100",
+        "product_name": "Under Product",
+        "price": 220.25,
+        "category": [
+            "Fashion"
+        ],
+        "discount": 7.58
+    }
+]

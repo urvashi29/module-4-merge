@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "customer_name": "Joseph Stone",
+        "car_name": "Honda Civic",
+        "price": 36645.54,
+        "salary": 51867.7,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 2,
+        "customer_name": "Shannon Barnes",
+        "car_name": "Kia Optima",
+        "price": 58267.59,
+        "salary": 85591.23,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 3,
+        "customer_name": "Max Gomez",
+        "car_name": "BMW 3 Series",
+        "price": 30801.6,
+        "salary": 98164.73,
+        "year_of_purchasing": 2021
+    },
+    {
+        "id": 4,
+        "customer_name": "Erica Thompson",
+        "car_name": "Hyundai Elantra",
+        "price": 36302.72,
+        "salary": 40718.27,
+        "year_of_purchasing": 2014
+    },
+    {
+        "id": 5,
+        "customer_name": "Mark Salazar",
+        "car_name": "Honda Civic",
+        "price": 27250.63,
+        "salary": 118088.48,
+        "year_of_purchasing": 2011
+    },
+    {
+        "id": 6,
+        "customer_name": "Kimberly Edwards",
+        "car_name": "Audi A4",
+        "price": 45451.34,
+        "salary": 32679.24,
+        "year_of_purchasing": 2010
+    },
+    {
+        "id": 7,
+        "customer_name": "Tracy Holt",
+        "car_name": "BMW 3 Series",
+        "price": 18336.16,
+        "salary": 42606.98,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 8,
+        "customer_name": "Cheryl Walker",
+        "car_name": "Hyundai Elantra",
+        "price": 33350.85,
+        "salary": 105771.64,
+        "year_of_purchasing": 2012
+    },
+    {
+        "id": 9,
+        "customer_name": "Anthony Nelson",
+        "car_name": "Toyota Corolla",
+        "price": 49556.33,
+        "salary": 58802.64,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 10,
+        "customer_name": "Karen Smith",
+        "car_name": "Chevrolet Malibu",
+        "price": 53065.23,
+        "salary": 46220.31,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 11,
+        "customer_name": "Peter Lopez",
+        "car_name": "Chevrolet Malibu",
+        "price": 37990.94,
+        "salary": 34938.85,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 12,
+        "customer_name": "Ashley Jefferson",
+        "car_name": "Nissan Altima",
+        "price": 15189.82,
+        "salary": 67893.37,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 13,
+        "customer_name": "Joshua Garcia",
+        "car_name": "Kia Optima",
+        "price": 40294.51,
+        "salary": 80239.39,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 14,
+        "customer_name": "David Wood",
+        "car_name": "Audi A4",
+        "price": 56639.22,
+        "salary": 110144.5,
+        "year_of_purchasing": 2023
+    },
+    {
+        "id": 15,
+        "customer_name": "Leah Roth",
+        "car_name": "Kia Optima",
+        "price": 21762.52,
+        "salary": 50007.01,
+        "year_of_purchasing": 2022
+    },
+    {
+        "id": 16,
+        "customer_name": "Samuel Malone",
+        "car_name": "Hyundai Elantra",
+        "price": 29663.83,
+        "salary": 68219.47,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 17,
+        "customer_name": "Ashley Mathis",
+        "car_name": "Audi A4",
+        "price": 21269.38,
+        "salary": 109414.92,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 18,
+        "customer_name": "Zachary Oconnor",
+        "car_name": "Kia Optima",
+        "price": 46629.46,
+        "salary": 82750.48,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 19,
+        "customer_name": "Christy Hunter",
+        "car_name": "Chevrolet Malibu",
+        "price": 24792.04,
+        "salary": 118140.3,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 20,
+        "customer_name": "Jared Bryant",
+        "car_name": "Honda Civic",
+        "price": 36775.79,
+        "salary": 111261.7,
+        "year_of_purchasing": 2012
+    },
+    {
+        "id": 21,
+        "customer_name": "Lori Fisher",
+        "car_name": "Chevrolet Malibu",
+        "price": 55704.0,
+        "salary": 63404.38,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 22,
+        "customer_name": "Benjamin Clark",
+        "car_name": "Hyundai Elantra",
+        "price": 42486.11,
+        "salary": 81939.55,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 23,
+        "customer_name": "Donna Cochran",
+        "car_name": "Chevrolet Malibu",
+        "price": 50456.98,
+        "salary": 73978.36,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 24,
+        "customer_name": "Natalie Weaver",
+        "car_name": "Hyundai Elantra",
+        "price": 37449.75,
+        "salary": 102659.5,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 25,
+        "customer_name": "Thomas Powell",
+        "car_name": "Ford Focus",
+        "price": 50782.22,
+        "salary": 37650.97,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 26,
+        "customer_name": "Tiffany Campbell",
+        "car_name": "Toyota Corolla",
+        "price": 25563.95,
+        "salary": 108301.84,
+        "year_of_purchasing": 2014
+    },
+    {
+        "id": 27,
+        "customer_name": "Brian Stewart",
+        "car_name": "Toyota Corolla",
+        "price": 17336.68,
+        "salary": 77671.6,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 28,
+        "customer_name": "Christine Palmer",
+        "car_name": "Kia Optima",
+        "price": 35802.68,
+        "salary": 86583.05,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 29,
+        "customer_name": "Jon Hill",
+        "car_name": "Toyota Corolla",
+        "price": 59889.76,
+        "salary": 47712.95,
+        "year_of_purchasing": 2014
+    },
+    {
+        "id": 30,
+        "customer_name": "James Winters",
+        "car_name": "Audi A4",
+        "price": 26600.29,
+        "salary": 90114.03,
+        "year_of_purchasing": 2015
+    },
+    {
+        "id": 31,
+        "customer_name": "Vickie Dominguez",
+        "car_name": "Kia Optima",
+        "price": 19327.65,
+        "salary": 30002.71,
+        "year_of_purchasing": 2023
+    },
+    {
+        "id": 32,
+        "customer_name": "Emily Rivera",
+        "car_name": "Chevrolet Malibu",
+        "price": 24098.55,
+        "salary": 107354.12,
+        "year_of_purchasing": 2021
+    },
+    {
+        "id": 33,
+        "customer_name": "Mark Alexander",
+        "car_name": "Chevrolet Malibu",
+        "price": 24501.37,
+        "salary": 76632.36,
+        "year_of_purchasing": 2011
+    },
+    {
+        "id": 34,
+        "customer_name": "Paul Webb",
+        "car_name": "Hyundai Elantra",
+        "price": 15527.03,
+        "salary": 49960.71,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 35,
+        "customer_name": "Justin Hickman",
+        "car_name": "Ford Focus",
+        "price": 25682.96,
+        "salary": 66055.53,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 36,
+        "customer_name": "Gregory Gutierrez",
+        "car_name": "Audi A4",
+        "price": 19824.36,
+        "salary": 110227.23,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 37,
+        "customer_name": "Robert Hall",
+        "car_name": "Hyundai Elantra",
+        "price": 21044.08,
+        "salary": 90049.37,
+        "year_of_purchasing": 2022
+    },
+    {
+        "id": 38,
+        "customer_name": "Timothy Bauer",
+        "car_name": "Chevrolet Malibu",
+        "price": 50404.08,
+        "salary": 56059.33,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 39,
+        "customer_name": "Heather Johnson",
+        "car_name": "Nissan Altima",
+        "price": 53223.73,
+        "salary": 35771.59,
+        "year_of_purchasing": 2012
+    },
+    {
+        "id": 40,
+        "customer_name": "Erin Murray",
+        "car_name": "Nissan Altima",
+        "price": 53570.31,
+        "salary": 102332.54,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 41,
+        "customer_name": "Christopher Mason",
+        "car_name": "Chevrolet Malibu",
+        "price": 45321.26,
+        "salary": 35054.09,
+        "year_of_purchasing": 2011
+    },
+    {
+        "id": 42,
+        "customer_name": "Jacob Kelly",
+        "car_name": "Hyundai Elantra",
+        "price": 17551.82,
+        "salary": 107553.1,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 43,
+        "customer_name": "Robert Hancock",
+        "car_name": "Honda Civic",
+        "price": 40931.1,
+        "salary": 100807.95,
+        "year_of_purchasing": 2022
+    },
+    {
+        "id": 44,
+        "customer_name": "Jonathan Armstrong",
+        "car_name": "Toyota Corolla",
+        "price": 53040.89,
+        "salary": 72447.69,
+        "year_of_purchasing": 2010
+    },
+    {
+        "id": 45,
+        "customer_name": "Steven Parsons",
+        "car_name": "BMW 3 Series",
+        "price": 42812.11,
+        "salary": 99822.79,
+        "year_of_purchasing": 2015
+    },
+    {
+        "id": 46,
+        "customer_name": "Richard Hanson",
+        "car_name": "Nissan Altima",
+        "price": 32960.94,
+        "salary": 88262.31,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 47,
+        "customer_name": "Crystal West",
+        "car_name": "Honda Civic",
+        "price": 58718.68,
+        "salary": 67574.81,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 48,
+        "customer_name": "Alexander Edwards",
+        "car_name": "Ford Focus",
+        "price": 49203.63,
+        "salary": 48585.8,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 49,
+        "customer_name": "Robert Baxter",
+        "car_name": "Nissan Altima",
+        "price": 34355.83,
+        "salary": 64242.85,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 50,
+        "customer_name": "Ronald Choi",
+        "car_name": "Chevrolet Malibu",
+        "price": 31987.34,
+        "salary": 86025.83,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 51,
+        "customer_name": "Brandon Smith",
+        "car_name": "Hyundai Elantra",
+        "price": 48372.07,
+        "salary": 81874.8,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 52,
+        "customer_name": "Scott Smith",
+        "car_name": "Hyundai Elantra",
+        "price": 34340.83,
+        "salary": 103351.79,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 53,
+        "customer_name": "Leah Rose",
+        "car_name": "Hyundai Elantra",
+        "price": 17106.17,
+        "salary": 45380.49,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 54,
+        "customer_name": "John Hawkins",
+        "car_name": "Nissan Altima",
+        "price": 33577.78,
+        "salary": 115686.94,
+        "year_of_purchasing": 2022
+    },
+    {
+        "id": 55,
+        "customer_name": "Jennifer Martin",
+        "car_name": "Ford Focus",
+        "price": 22300.43,
+        "salary": 42314.32,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 56,
+        "customer_name": "Matthew Williams",
+        "car_name": "BMW 3 Series",
+        "price": 20002.42,
+        "salary": 79228.97,
+        "year_of_purchasing": 2024
+    },
+    {
+        "id": 57,
+        "customer_name": "Peter Hawkins",
+        "car_name": "Hyundai Elantra",
+        "price": 37373.45,
+        "salary": 97614.72,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 58,
+        "customer_name": "Alexandra Hall",
+        "car_name": "Chevrolet Malibu",
+        "price": 45868.06,
+        "salary": 92686.66,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 59,
+        "customer_name": "Lori Jackson",
+        "car_name": "Nissan Altima",
+        "price": 52988.86,
+        "salary": 42709.34,
+        "year_of_purchasing": 2024
+    },
+    {
+        "id": 60,
+        "customer_name": "John Huff",
+        "car_name": "Honda Civic",
+        "price": 26265.22,
+        "salary": 45055.58,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 61,
+        "customer_name": "Sara Beard",
+        "car_name": "Mazda 6",
+        "price": 32237.36,
+        "salary": 55317.55,
+        "year_of_purchasing": 2021
+    },
+    {
+        "id": 62,
+        "customer_name": "Robert Ayala",
+        "car_name": "Chevrolet Malibu",
+        "price": 49724.57,
+        "salary": 52506.9,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 63,
+        "customer_name": "Alfred Webster",
+        "car_name": "Audi A4",
+        "price": 28208.15,
+        "salary": 92513.56,
+        "year_of_purchasing": 2024
+    },
+    {
+        "id": 64,
+        "customer_name": "Ronald Perez",
+        "car_name": "Mazda 6",
+        "price": 52280.49,
+        "salary": 70196.52,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 65,
+        "customer_name": "Larry Jimenez",
+        "car_name": "Honda Civic",
+        "price": 26840.98,
+        "salary": 34232.12,
+        "year_of_purchasing": 2024
+    },
+    {
+        "id": 66,
+        "customer_name": "Brenda Schultz",
+        "car_name": "Audi A4",
+        "price": 21034.43,
+        "salary": 77372.66,
+        "year_of_purchasing": 2015
+    },
+    {
+        "id": 67,
+        "customer_name": "Beverly Bruce",
+        "car_name": "Ford Focus",
+        "price": 18187.88,
+        "salary": 43466.03,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 68,
+        "customer_name": "Erika Ruiz",
+        "car_name": "Honda Civic",
+        "price": 16885.87,
+        "salary": 99704.05,
+        "year_of_purchasing": 2011
+    },
+    {
+        "id": 69,
+        "customer_name": "Jessica Gregory",
+        "car_name": "Audi A4",
+        "price": 29296.55,
+        "salary": 96111.47,
+        "year_of_purchasing": 2022
+    },
+    {
+        "id": 70,
+        "customer_name": "Phillip Moran",
+        "car_name": "Chevrolet Malibu",
+        "price": 55010.5,
+        "salary": 119181.77,
+        "year_of_purchasing": 2010
+    },
+    {
+        "id": 71,
+        "customer_name": "Jillian Martinez",
+        "car_name": "Honda Civic",
+        "price": 33757.47,
+        "salary": 117524.55,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 72,
+        "customer_name": "Carly Lee",
+        "car_name": "Toyota Corolla",
+        "price": 41452.75,
+        "salary": 42176.79,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 73,
+        "customer_name": "Lisa Smith",
+        "car_name": "Honda Civic",
+        "price": 35113.51,
+        "salary": 67125.59,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 74,
+        "customer_name": "Mary Weber",
+        "car_name": "Nissan Altima",
+        "price": 16206.42,
+        "salary": 73281.76,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 75,
+        "customer_name": "Zachary Harrison",
+        "car_name": "Nissan Altima",
+        "price": 38840.41,
+        "salary": 57066.69,
+        "year_of_purchasing": 2018
+    },
+    {
+        "id": 76,
+        "customer_name": "Adam Kim MD",
+        "car_name": "BMW 3 Series",
+        "price": 27443.84,
+        "salary": 76557.05,
+        "year_of_purchasing": 2015
+    },
+    {
+        "id": 77,
+        "customer_name": "Joshua Stevens",
+        "car_name": "Kia Optima",
+        "price": 50770.25,
+        "salary": 98334.83,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 78,
+        "customer_name": "Shannon Cruz",
+        "car_name": "Toyota Corolla",
+        "price": 58350.08,
+        "salary": 87332.56,
+        "year_of_purchasing": 2010
+    },
+    {
+        "id": 79,
+        "customer_name": "Gina Williams",
+        "car_name": "Hyundai Elantra",
+        "price": 17156.38,
+        "salary": 112044.9,
+        "year_of_purchasing": 2011
+    },
+    {
+        "id": 80,
+        "customer_name": "Natalie Ray",
+        "car_name": "Hyundai Elantra",
+        "price": 48966.46,
+        "salary": 80477.8,
+        "year_of_purchasing": 2010
+    },
+    {
+        "id": 81,
+        "customer_name": "Carolyn Scott",
+        "car_name": "Nissan Altima",
+        "price": 59519.43,
+        "salary": 61142.72,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 82,
+        "customer_name": "Carolyn Brennan",
+        "car_name": "Mazda 6",
+        "price": 56008.29,
+        "salary": 93433.93,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 83,
+        "customer_name": "Jacqueline Ramirez",
+        "car_name": "Toyota Corolla",
+        "price": 17691.95,
+        "salary": 67947.59,
+        "year_of_purchasing": 2020
+    },
+    {
+        "id": 84,
+        "customer_name": "Michael Fischer",
+        "car_name": "Mazda 6",
+        "price": 30296.43,
+        "salary": 107657.23,
+        "year_of_purchasing": 2023
+    },
+    {
+        "id": 85,
+        "customer_name": "Dawn Ingram",
+        "car_name": "Ford Focus",
+        "price": 35458.75,
+        "salary": 50347.22,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 86,
+        "customer_name": "Madison Barajas",
+        "car_name": "Chevrolet Malibu",
+        "price": 48603.6,
+        "salary": 95763.27,
+        "year_of_purchasing": 2024
+    },
+    {
+        "id": 87,
+        "customer_name": "Jessica Brandt",
+        "car_name": "Audi A4",
+        "price": 24490.67,
+        "salary": 33594.67,
+        "year_of_purchasing": 2014
+    },
+    {
+        "id": 88,
+        "customer_name": "Melanie Alvarez",
+        "car_name": "Audi A4",
+        "price": 17772.64,
+        "salary": 70276.77,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 89,
+        "customer_name": "Nancy Pollard",
+        "car_name": "Hyundai Elantra",
+        "price": 27982.67,
+        "salary": 110102.77,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 90,
+        "customer_name": "Richard Prince",
+        "car_name": "Hyundai Elantra",
+        "price": 31726.04,
+        "salary": 79551.18,
+        "year_of_purchasing": 2011
+    },
+    {
+        "id": 91,
+        "customer_name": "Megan Howard",
+        "car_name": "Toyota Corolla",
+        "price": 28062.23,
+        "salary": 49246.04,
+        "year_of_purchasing": 2010
+    },
+    {
+        "id": 92,
+        "customer_name": "Thomas Spencer",
+        "car_name": "Honda Civic",
+        "price": 48482.14,
+        "salary": 34964.32,
+        "year_of_purchasing": 2013
+    },
+    {
+        "id": 93,
+        "customer_name": "Christina Rojas",
+        "car_name": "Mazda 6",
+        "price": 21706.17,
+        "salary": 118199.89,
+        "year_of_purchasing": 2022
+    },
+    {
+        "id": 94,
+        "customer_name": "Justin Morse",
+        "car_name": "Mazda 6",
+        "price": 20702.67,
+        "salary": 78254.21,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 95,
+        "customer_name": "William Martin",
+        "car_name": "Audi A4",
+        "price": 36290.03,
+        "salary": 79848.08,
+        "year_of_purchasing": 2016
+    },
+    {
+        "id": 96,
+        "customer_name": "Carla Sandoval",
+        "car_name": "Audi A4",
+        "price": 16555.88,
+        "salary": 107641.67,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 97,
+        "customer_name": "Jennifer Johnston",
+        "car_name": "Audi A4",
+        "price": 56078.71,
+        "salary": 64132.54,
+        "year_of_purchasing": 2017
+    },
+    {
+        "id": 98,
+        "customer_name": "Christopher Roberts",
+        "car_name": "Honda Civic",
+        "price": 55597.74,
+        "salary": 106632.55,
+        "year_of_purchasing": 2019
+    },
+    {
+        "id": 99,
+        "customer_name": "Brian Wood",
+        "car_name": "Audi A4",
+        "price": 50614.13,
+        "salary": 65046.79,
+        "year_of_purchasing": 2011
+    },
+    {
+        "id": 100,
+        "customer_name": "Jonathan Barton",
+        "car_name": "Ford Focus",
+        "price": 43879.32,
+        "salary": 46477.03,
+        "year_of_purchasing": 2014
+    }
+]
