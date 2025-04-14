@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "name": "Robert Gould",
+        "department": "IT",
+        "salary": 42519.3,
+        "year_of_joining": 2018,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 2,
+        "name": "Matthew Perry",
+        "department": "Support",
+        "salary": 82212.69,
+        "year_of_joining": 2008,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 3,
+        "name": "Jessica Davis",
+        "department": "Finance",
+        "salary": 131577.63,
+        "year_of_joining": 2014,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 4,
+        "name": "Debra Harvey",
+        "department": "IT",
+        "salary": 104045.14,
+        "year_of_joining": 2010,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 5,
+        "name": "Christine Serrano",
+        "department": "Operations",
+        "salary": 67782.49,
+        "year_of_joining": 2006,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 6,
+        "name": "Connie Gardner",
+        "department": "Support",
+        "salary": 45202.39,
+        "year_of_joining": 2005,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 7,
+        "name": "Maria Reed",
+        "department": "Engineering",
+        "salary": 130731.87,
+        "year_of_joining": 2008,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 8,
+        "name": "John Norman",
+        "department": "Marketing",
+        "salary": 123624.6,
+        "year_of_joining": 2016,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 9,
+        "name": "Kristopher Davis",
+        "department": "IT",
+        "salary": 148378.19,
+        "year_of_joining": 2021,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 10,
+        "name": "Carla Murphy",
+        "department": "HR",
+        "salary": 76931.27,
+        "year_of_joining": 2008,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 11,
+        "name": "Michelle Hicks",
+        "department": "Operations",
+        "salary": 48197.77,
+        "year_of_joining": 2010,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 12,
+        "name": "Rachel Brown",
+        "department": "Support",
+        "salary": 112732.24,
+        "year_of_joining": 2010,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 13,
+        "name": "Rachel Morris",
+        "department": "Marketing",
+        "salary": 96688.74,
+        "year_of_joining": 2013,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 14,
+        "name": "Rebecca Sutton",
+        "department": "Operations",
+        "salary": 100918.59,
+        "year_of_joining": 2020,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 15,
+        "name": "Robert Cannon",
+        "department": "HR",
+        "salary": 70790.72,
+        "year_of_joining": 2012,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 16,
+        "name": "Alexandria Reyes",
+        "department": "Sales",
+        "salary": 84195.2,
+        "year_of_joining": 2006,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 17,
+        "name": "Katrina Castaneda",
+        "department": "Engineering",
+        "salary": 136564.38,
+        "year_of_joining": 2009,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 18,
+        "name": "Joel Smith",
+        "department": "Engineering",
+        "salary": 138669.63,
+        "year_of_joining": 2016,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 19,
+        "name": "Amber Gamble",
+        "department": "HR",
+        "salary": 68167.77,
+        "year_of_joining": 2023,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 20,
+        "name": "Natalie Sawyer",
+        "department": "Support",
+        "salary": 33996.42,
+        "year_of_joining": 2017,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 21,
+        "name": "Jennifer Garcia",
+        "department": "Engineering",
+        "salary": 91496.39,
+        "year_of_joining": 2006,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 22,
+        "name": "Sarah Henry",
+        "department": "Sales",
+        "salary": 135350.55,
+        "year_of_joining": 2008,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 23,
+        "name": "Joshua White",
+        "department": "IT",
+        "salary": 115559.36,
+        "year_of_joining": 2021,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 24,
+        "name": "Kelly Reed",
+        "department": "Support",
+        "salary": 138717.49,
+        "year_of_joining": 2010,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 25,
+        "name": "Jose Hogan",
+        "department": "HR",
+        "salary": 142504.43,
+        "year_of_joining": 2012,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 26,
+        "name": "Lisa Morris",
+        "department": "Support",
+        "salary": 115191.34,
+        "year_of_joining": 2013,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 27,
+        "name": "Craig Jensen",
+        "department": "Sales",
+        "salary": 123317.81,
+        "year_of_joining": 2020,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 28,
+        "name": "Allen Robinson",
+        "department": "HR",
+        "salary": 113407.83,
+        "year_of_joining": 2015,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 29,
+        "name": "Sarah Rios",
+        "department": "Support",
+        "salary": 112425.96,
+        "year_of_joining": 2015,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 30,
+        "name": "Michael Levy",
+        "department": "Marketing",
+        "salary": 37336.46,
+        "year_of_joining": 2008,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 31,
+        "name": "Kristina Gross",
+        "department": "Operations",
+        "salary": 116468.41,
+        "year_of_joining": 2019,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 32,
+        "name": "Jonathan Shaffer",
+        "department": "HR",
+        "salary": 127085.1,
+        "year_of_joining": 2019,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 33,
+        "name": "Neil Huff",
+        "department": "Finance",
+        "salary": 106863.97,
+        "year_of_joining": 2019,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 34,
+        "name": "Melissa Guerrero",
+        "department": "Support",
+        "salary": 49723.96,
+        "year_of_joining": 2024,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 35,
+        "name": "Madeline Harrison",
+        "department": "Marketing",
+        "salary": 39379.85,
+        "year_of_joining": 2019,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 36,
+        "name": "Anna Mccarthy",
+        "department": "Sales",
+        "salary": 99636.66,
+        "year_of_joining": 2020,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 37,
+        "name": "Donna Thompson",
+        "department": "Marketing",
+        "salary": 84969.96,
+        "year_of_joining": 2022,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 38,
+        "name": "Kelsey Henderson",
+        "department": "IT",
+        "salary": 31828.82,
+        "year_of_joining": 2020,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 39,
+        "name": "Frank Oneal",
+        "department": "Operations",
+        "salary": 64568.16,
+        "year_of_joining": 2022,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 40,
+        "name": "Nicole Barr",
+        "department": "HR",
+        "salary": 82546.32,
+        "year_of_joining": 2019,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 41,
+        "name": "Daniel Wilson",
+        "department": "Engineering",
+        "salary": 144843.34,
+        "year_of_joining": 2012,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 42,
+        "name": "Charles Jackson",
+        "department": "IT",
+        "salary": 104854.92,
+        "year_of_joining": 2015,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 43,
+        "name": "James Little",
+        "department": "IT",
+        "salary": 126615.18,
+        "year_of_joining": 2005,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 44,
+        "name": "Brenda Donaldson",
+        "department": "Support",
+        "salary": 121349.24,
+        "year_of_joining": 2018,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 45,
+        "name": "Patricia Young",
+        "department": "Support",
+        "salary": 106159.97,
+        "year_of_joining": 2023,
+        "manager_name": "Lisa Murphy"
+    },
+    {
+        "id": 46,
+        "name": "Shane Hernandez",
+        "department": "Marketing",
+        "salary": 116757.84,
+        "year_of_joining": 2013,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 47,
+        "name": "Shane Rios",
+        "department": "Support",
+        "salary": 146778.72,
+        "year_of_joining": 2021,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 48,
+        "name": "Jacob Lopez",
+        "department": "HR",
+        "salary": 58096.88,
+        "year_of_joining": 2008,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 49,
+        "name": "Elizabeth Brown",
+        "department": "Sales",
+        "salary": 122566.45,
+        "year_of_joining": 2024,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 50,
+        "name": "Joanna Martinez",
+        "department": "Engineering",
+        "salary": 120458.3,
+        "year_of_joining": 2008,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 51,
+        "name": "Larry Morse",
+        "department": "HR",
+        "salary": 73941.83,
+        "year_of_joining": 2019,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 52,
+        "name": "Steven Robinson",
+        "department": "Support",
+        "salary": 53182.81,
+        "year_of_joining": 2024,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 53,
+        "name": "Alicia Rodriguez",
+        "department": "Finance",
+        "salary": 58685.86,
+        "year_of_joining": 2007,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 54,
+        "name": "Marissa Garcia",
+        "department": "Support",
+        "salary": 131081.67,
+        "year_of_joining": 2022,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 55,
+        "name": "Jennifer David",
+        "department": "Support",
+        "salary": 33232.89,
+        "year_of_joining": 2024,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 56,
+        "name": "Troy Montoya",
+        "department": "Operations",
+        "salary": 40726.03,
+        "year_of_joining": 2015,
+        "manager_name": "Lisa Murphy"
+    },
+    {
+        "id": 57,
+        "name": "Rachael Mcgee",
+        "department": "Sales",
+        "salary": 92781.4,
+        "year_of_joining": 2014,
+        "manager_name": "Lisa Murphy"
+    },
+    {
+        "id": 58,
+        "name": "Randy Bell",
+        "department": "Support",
+        "salary": 130544.46,
+        "year_of_joining": 2011,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 59,
+        "name": "Terri Martinez",
+        "department": "IT",
+        "salary": 93859.68,
+        "year_of_joining": 2006,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 60,
+        "name": "William Willis",
+        "department": "Support",
+        "salary": 62890.77,
+        "year_of_joining": 2005,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 61,
+        "name": "Veronica Hayden",
+        "department": "HR",
+        "salary": 118298.85,
+        "year_of_joining": 2011,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 62,
+        "name": "Kathleen Wagner",
+        "department": "IT",
+        "salary": 89688.93,
+        "year_of_joining": 2024,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 63,
+        "name": "Lauren Johnson",
+        "department": "Engineering",
+        "salary": 141254.39,
+        "year_of_joining": 2019,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 64,
+        "name": "Elizabeth Black",
+        "department": "IT",
+        "salary": 134323.05,
+        "year_of_joining": 2023,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 65,
+        "name": "Patricia Stewart",
+        "department": "Marketing",
+        "salary": 112342.11,
+        "year_of_joining": 2017,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 66,
+        "name": "Emily Hammond",
+        "department": "Engineering",
+        "salary": 72590.33,
+        "year_of_joining": 2016,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 67,
+        "name": "Raymond Solomon",
+        "department": "Operations",
+        "salary": 73885.91,
+        "year_of_joining": 2009,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 68,
+        "name": "Luke Arnold",
+        "department": "Engineering",
+        "salary": 128607.31,
+        "year_of_joining": 2008,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 69,
+        "name": "Scott Hernandez",
+        "department": "HR",
+        "salary": 97370.6,
+        "year_of_joining": 2008,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 70,
+        "name": "Haley Williams",
+        "department": "Finance",
+        "salary": 129123.3,
+        "year_of_joining": 2019,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 71,
+        "name": "Beth Graham",
+        "department": "Sales",
+        "salary": 94838.96,
+        "year_of_joining": 2019,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 72,
+        "name": "Kelly Moore",
+        "department": "Engineering",
+        "salary": 31200.67,
+        "year_of_joining": 2012,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 73,
+        "name": "James Kelley",
+        "department": "IT",
+        "salary": 87818.79,
+        "year_of_joining": 2010,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 74,
+        "name": "Katherine Flores",
+        "department": "HR",
+        "salary": 147970.2,
+        "year_of_joining": 2010,
+        "manager_name": "Lisa Murphy"
+    },
+    {
+        "id": 75,
+        "name": "Ethan Brown",
+        "department": "IT",
+        "salary": 125938.97,
+        "year_of_joining": 2015,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 76,
+        "name": "Stephanie Bryant",
+        "department": "Sales",
+        "salary": 78574.6,
+        "year_of_joining": 2020,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 77,
+        "name": "Michelle Glass",
+        "department": "IT",
+        "salary": 39578.57,
+        "year_of_joining": 2020,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 78,
+        "name": "Dawn Lane",
+        "department": "IT",
+        "salary": 34447.17,
+        "year_of_joining": 2005,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 79,
+        "name": "James Saunders",
+        "department": "Finance",
+        "salary": 63071.12,
+        "year_of_joining": 2013,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 80,
+        "name": "Brittney Aguilar DDS",
+        "department": "Marketing",
+        "salary": 130204.21,
+        "year_of_joining": 2019,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 81,
+        "name": "Kevin Brown",
+        "department": "Sales",
+        "salary": 74577.97,
+        "year_of_joining": 2005,
+        "manager_name": "Lisa Murphy"
+    },
+    {
+        "id": 82,
+        "name": "Katelyn Rose",
+        "department": "IT",
+        "salary": 140376.53,
+        "year_of_joining": 2020,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 83,
+        "name": "Dawn White",
+        "department": "Operations",
+        "salary": 35460.58,
+        "year_of_joining": 2015,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 84,
+        "name": "Brooke Fox PhD",
+        "department": "HR",
+        "salary": 71113.07,
+        "year_of_joining": 2005,
+        "manager_name": "Michael Wolfe"
+    },
+    {
+        "id": 85,
+        "name": "Jonathan Holmes",
+        "department": "HR",
+        "salary": 66678.8,
+        "year_of_joining": 2009,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 86,
+        "name": "Dr. Sophia Keith",
+        "department": "Support",
+        "salary": 71782.75,
+        "year_of_joining": 2014,
+        "manager_name": "Tina Johnson"
+    },
+    {
+        "id": 87,
+        "name": "Danielle Mcdowell",
+        "department": "Support",
+        "salary": 57523.43,
+        "year_of_joining": 2011,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 88,
+        "name": "Richard Weaver",
+        "department": "IT",
+        "salary": 69863.04,
+        "year_of_joining": 2018,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 89,
+        "name": "Eric Singleton",
+        "department": "Support",
+        "salary": 135523.94,
+        "year_of_joining": 2011,
+        "manager_name": "Michael Collins"
+    },
+    {
+        "id": 90,
+        "name": "Rachel Graham",
+        "department": "Finance",
+        "salary": 44992.8,
+        "year_of_joining": 2021,
+        "manager_name": "Savannah Ayala"
+    },
+    {
+        "id": 91,
+        "name": "Johnny Gonzalez",
+        "department": "Support",
+        "salary": 87074.73,
+        "year_of_joining": 2009,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 92,
+        "name": "Charles Contreras",
+        "department": "Finance",
+        "salary": 65289.46,
+        "year_of_joining": 2013,
+        "manager_name": "Robert Simpson"
+    },
+    {
+        "id": 93,
+        "name": "Matthew Gonzalez",
+        "department": "Marketing",
+        "salary": 124516.72,
+        "year_of_joining": 2024,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 94,
+        "name": "Christopher Wagner",
+        "department": "Operations",
+        "salary": 130908.09,
+        "year_of_joining": 2024,
+        "manager_name": "Patrick Perez"
+    },
+    {
+        "id": 95,
+        "name": "Jacqueline Anderson",
+        "department": "Marketing",
+        "salary": 95388.67,
+        "year_of_joining": 2020,
+        "manager_name": "Lisa Murphy"
+    },
+    {
+        "id": 96,
+        "name": "Kimberly Bruce",
+        "department": "Support",
+        "salary": 140472.7,
+        "year_of_joining": 2005,
+        "manager_name": "Sherri Haley"
+    },
+    {
+        "id": 97,
+        "name": "Erica Escobar",
+        "department": "HR",
+        "salary": 58808.91,
+        "year_of_joining": 2011,
+        "manager_name": "Lisa Murphy"
+    },
+    {
+        "id": 98,
+        "name": "Heather Medina",
+        "department": "Finance",
+        "salary": 64799.2,
+        "year_of_joining": 2008,
+        "manager_name": "Jennifer Keller"
+    },
+    {
+        "id": 99,
+        "name": "Angel Wilson",
+        "department": "Support",
+        "salary": 73253.88,
+        "year_of_joining": 2013,
+        "manager_name": "Kenneth Smith"
+    },
+    {
+        "id": 100,
+        "name": "Taylor Garrett",
+        "department": "IT",
+        "salary": 133381.85,
+        "year_of_joining": 2019,
+        "manager_name": "Michael Collins"
+    }
+]
