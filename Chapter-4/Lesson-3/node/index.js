@@ -65,3 +65,9 @@ const urlObj = {
 console.log(url.format(urlObj));
 
 // Task: read a data from from text file, then convert buffer to string and write in another file
+
+// creating & using custom module
+const colors = require("mynodemodule");
+const randomColor = colors.getRandomColor();
+
+console.log(randomColor.name);

@@ -16,6 +16,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "mynodemodule": "file:mynodemodule",
     "nodemon": "^3.1.9"
   }
 }
