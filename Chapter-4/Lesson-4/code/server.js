@@ -62,11 +62,11 @@ app.get("/employees/:id", (req, res) => {
   }
 });
 
-app.post("/employees", (req, res) => {
-  console.log(req.body);
-  //push data to person
-  res.send("ok");
-});
+// app.post("/employees", (req, res) => {
+//   console.log(req.body);
+//   //push data to person
+//   res.send("ok");
+// });
 
 app.delete("/employee/:id", () => {
   // find object to be delete
@@ -75,3 +75,59 @@ app.delete("/employee/:id", () => {
 
 // Task
 // delete
+
+app.post("/employees", (req, res) => {
+  console.log(req.body);
+  let emp = req.body;
+  for (const key in emp) {
+    if (
+      key == "name" ||
+      key == "age" ||
+      key == "salary" ||
+      key == "city" ||
+      key == "id"
+    ) {
+      continue;
+    } else {
+      res.status(400).json({ message: "bad request happened" });
+    }
+  }
+
+  person.push(emp);
+  res.status(201).json({ data: emp });
+});
+
+// updation
+// put -> delete complete object and add new updated object
+app.put("/employees/:id", (req, res) => {
+  let employee = req.body;
+  let id = req.params.id;
+
+  person.splice(
+    person.findIndex((e) => e.id == id),
+    1
+  );
+  person.push(employee);
+  res.status(200).json({ data: employee });
+});
+
+// app.patch("/employees/:id", (req, res) => {
+//   let employee = req.body;
+//   let id = req.params.id;
+
+//   //find the object to be updated and update in person object
+//   res.status(200).json({ data: employee });
+// });
+
+// Task
+// Create CRUD APIS'
+
+// data of products
+// {
+// productName,
+// ProductId,
+// Discount Price
+// Original Price
+// image: "link",
+// productCategory
+// }
