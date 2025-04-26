@@ -4,9 +4,12 @@ const routes = require("./routes/todoroutes");
 const cors = require("cors");
 const app = express();
 
+const dotenv = require("dotenv");
+dotenv.config();
+
 dbConnection();
 
-app.use(cors());//cross origin resource sharing
+app.use(cors()); //cross origin resource sharing
 app.use(express.json());
 app.use(routes);
 

@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const dbConnection = async () => {
   try {
     // Connect to your MongoDB database (replace with your database URL)
-    mongoose.connect(process.env.MONGODB_URL);
+    mongoose.connect("mongodb://127.0.0.1:27017/todo");
 
     const database = mongoose.connection;
     database.on("err", (err) => {
